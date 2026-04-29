@@ -1,0 +1,11 @@
+streamlit>=1.32
+easyocr
+pymupdf
+opencv-python-headless
+pandas
+numpy
+scikit-learn
+plotly
+joblib
+Pillow
+pytesseract
